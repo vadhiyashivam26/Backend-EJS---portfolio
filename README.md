@@ -9,7 +9,8 @@
 
  # About routing 
    👉 in this repository, about portfolio usign routes with variable and include.
-   👉 routes such as /home/(anyname), edu/(anyname), projects/(anyname), skills/(anyname). in this enter name is         necessary otherwise error will be occur.
+   
+   👉 routes such as /home/(anyname), edu/(anyname), projects/(anyname), skills/(anyname). in this enter name is necessary otherwise error will be occur.
 
  # 🤝 purpose of this template 
  👉 this templating project is about to practice EJS and routes using Express.js & Node.JS .
